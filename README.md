@@ -9,7 +9,7 @@
 멘토 : [강상위 님](https://github.com/khudev-ksw)
 
 학생 : 
-[이건호 님](), 
+[이건호 님](./), 
 [홍지혜 님](https://github.com/jola7373), 
 [채기중 님](https://github.com/KIJUNG-CHAE), 
 [유동엽 님](https://github.com/yudongyeop), 
