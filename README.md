@@ -32,7 +32,7 @@
 
 #### 사용 기술
 
-AWS(EC2, DynamoDB)
+AWS(EC2, DynamoDB), Flutter(Dart)
 
 #### 관련 리포지토리
 
