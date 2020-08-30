@@ -73,3 +73,39 @@ https://github.com/Coalery/FoodNotifierBE_NoSQL
 ![04-2](./img/img04-2.jpg)
 
 <br>
+
+## Hack Day / 2020. 08. 29.
+
+![05-01](./img/img05-01.jpg)
+
+![05-02](./img/img05-02.jpg)
+
+![05-03](./img/img05-03.jpg)
+
+![05-04](./img/img05-04.jpg)
+
+![05-05](./img/img05-05.jpg)
+
+![05-06](./img/img05-06.jpg)
+
+![05-07](./img/img05-07.jpg)
+
+![05-08](./img/img05-08.jpg)
+
+![05-09](./img/img05-09.jpg)
+
+![05-10](./img/img05-10.jpg)
+
+![05-11](./img/img05-11.jpg)
+
+![05-12](./img/img05-12.jpg)
+
+![05-13](./img/img05-13.jpg)
+
+![05-14](./img/img05-14.jpg)
+
+![05-15](./img/img05-15.jpg)
+
+<br>
+
+> 모자이크가 없는 원본 사진이 필요하신 분은 [여기](mailto:doralife12@naver.com)로 연락주세요!
