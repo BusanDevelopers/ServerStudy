@@ -78,11 +78,11 @@ https://github.com/Coalery/FoodNotifierBE_NoSQL
 
 ![05-01](./img/img05-01.jpg)
 
-![05-02](./img/img05-02.jpg)
+![05-04](./img/img05-04.jpg)
 
 ![05-03](./img/img05-03.jpg)
 
-![05-04](./img/img05-04.jpg)
+![05-02](./img/img05-02.jpg)
 
 ![05-05](./img/img05-05.jpg)
 
